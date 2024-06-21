@@ -1,0 +1,29 @@
+[
+    {
+        "id": 725,
+        "nome": "Jujutsu Kaisen: Batalha de Feiticeiros Vol. 25",
+        "marca": "Panini",
+        "categoria": "Shonen",
+        "preco": 39.90,
+        "quantidadeEstoque": 28,
+        "disponivelProntaEntrega": true
+    },
+    {
+        "id": 245,
+        "nome": "Jujutsu Kaisen: Batalha de Feiticeiros Vol. 21",
+        "marca": "Panini",
+        "categoria": "Shonen",
+        "preco": 35.90,
+        "quantidadeEstoque": 12,
+        "disponivelProntaEntrega": true
+    },
+    {
+        "id": 919,
+        "nome": "Chainsaw Man Vol. 16",
+        "marca": "Panini",
+        "categoria": "Shonen",
+        "preco": 32.90,
+        "quantidadeEstoque": 7,
+        "disponivelProntaEntrega": false
+    }
+]
